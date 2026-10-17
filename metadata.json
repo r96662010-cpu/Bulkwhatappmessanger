@@ -1,0 +1,6 @@
+{
+  "name": "WhatsBlast Pro - WhatsApp Marketing & Message All Engine",
+  "description": "High-converting WhatsApp campaign broadcaster, template manager, SIM rotation engine, audience personalization, and global keyboard shortcuts workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
